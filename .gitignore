@@ -1,0 +1,7 @@
+/node_modules
+/dist
+
+
+# when server
+# fetches code from git , it can cfeate node_module and dist file 
+#on server by executing npm commands on serverso thesse folders can be put in gitignore
