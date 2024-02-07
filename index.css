@@ -35,18 +35,23 @@
     margin: 10px;
 
 }
+.rest-container{
+    display: flex;
+    flex-wrap: wrap;
+}
 
 .rest-card{
-        width: 300px;
+        width: 200px;
         height: 400px;
         margin: 5px;
         border-radius: 30px;
         border: solid black;
+        border-style: hidden;
         
        
 }
 .rest-logo{
-    width: 250px;
+    width: 180px;
     height: 150px;
     margin: 5px;
     padding: 10px;
